@@ -7,11 +7,12 @@
 </h1>
 
 <section>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Islamabad, Pakistan.
+
+  #### A Summary about me:
+
+  <p>Experienced Frontend Web Developer with a focused expertise in React.js and proficiency in the MERN stack. With four years of freelance experience, I excel in crafting dynamic user interfaces that prioritize seamless user experiences. A collaborative team player, I leverage my skills to contribute effectively to project success. Committed to staying updated on emerging technologies, I ensure projects are delivered to the highest standards of performance and functionality, aligning closely with employer needs.</p>
   
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -39,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="Next.js" alt="Next.js" width='40' height='40'/>
 </div>
 
 ---
