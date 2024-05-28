@@ -12,7 +12,7 @@
 
   #### A Summary about me:
 
-  <p>Experienced Frontend Web Developer with a focused expertise in React.js and proficiency in the MERN stack. With four years of freelance experience, I excel in crafting dynamic user interfaces that prioritize seamless user experiences. A collaborative team player, I leverage my skills to contribute effectively to project success. Committed to staying updated on emerging technologies, I ensure projects are delivered to the highest standards of performance and functionality, aligning closely with employer needs.</p>
+  <p>With 4 years of technical experience, I am an analytical and skilled Node.js developer proficient in Next.js, TypeScript, service-oriented architecture, and API integration. My key achievement includes architecting a scalable application handling over 500,000 daily requests. </p>
   
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -20,7 +20,7 @@
 
   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jahad-tariq-75aa652b4/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jahad-tariq-75aa652b4/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
