@@ -43,6 +43,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="Next.js" alt="Next.js" width='40' height='40'/>
 </div>
 
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jahadtariq)](https://github.com/jahadtariq)
+
 ---
 
 ### :fire: My Stats :
